@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="municipalities_array">
+        <item>Beijing is China’s national capital and one of four direct‑administered municipalities. It has long political and cultural history, hosting key national institutions, famous historical landmarks such as the Forbidden City and Great Wall sections. It combines ancient heritage with modern metropolitan development, serving as a core transport and cultural hub for the whole country.</item>
+        <item>Shanghai is China’s largest economic centre and coastal municipality located on Yangtze River delta. It is globally‑renowned for finance, international trade and modern skyscraper skyline. It blends traditional local culture with heavy international influences, acting as major gateway for foreign commerce and cultural exchange in mainland China.</item>
+        <item>Chongqing is an inland direct‑administered municipality in southwest China, sitting beside Yangtze and Jialing rivers. Known for mountainous terrain, hot‑pot food culture and huge urban population. It plays critical roles in western China economic growth, large‑scale infrastructure construction and inland trade development.</item>
+        <item>Tianjin is a coastal municipality next to Beijing with rich modern‑era history. It features many preserved western‑style historic buildings, busy port facilities and strong manufacturing industry. It serves as important auxiliary economic and logistics hub supporting capital region development in northern China.</item>
+    </string-array>
+</resources>
